@@ -1,2 +1,2 @@
 # Machine-Learning-Based-Profession-Classfication
-This Model will classify the images of People according to their profession right now it is trained on only three datasets which are doctor,cook,firefighter the model can be further  trained on more datasets to classify between them
+This Model will classify the images of People according to their profession right now it is trained on only three datasets which are doctor,cook,firefighter the model can be further  trained on more datasets to classify between them As I cannot upload more then 100 images due to restrictions you can train this model by adding about 100 + images to each category for Good Accuracy and Results
